@@ -1,2 +1,2 @@
 # Meitar
-BI Developer
+BI & Data Engineer
